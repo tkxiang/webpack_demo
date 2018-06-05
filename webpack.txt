@@ -3,3 +3,4 @@ webpack配置添加新的内容2
 webpack添加内容003
 webpack添加内容0044
 webpack添加内容05
+webpack添加内容06
